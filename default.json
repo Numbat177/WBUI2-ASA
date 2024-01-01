@@ -1,85 +1,64 @@
 {
-  "WBUI2": {
-    "settings": {
-      "OpenButton": 0,
-      "HideIcon": false,
-      "HideIconAfter": 60,
-      "IconURL": "https://imgur.com/If0sRvW",
-      "DisableIconText": false,
-      "IconPosition": 3,
-      "IconTextColor": 0,
-      "OpenOnStart": true,
-      "OpenOnStartOnlyNewPlayers": true,
-      "UpdateInterval": 12
+  "icon": {
+    "display": true,
+    "icon_url": "https://imgur.com/If0sRvW"
+  },
+  "welcome": {
+    "tab1": {
+      "layout": 1,
+      "buttontext": "Welcome",
+      "title1": "✯✯✯✯✯   Welcome to E.K.O  (Early Knock Off)  Gaming   ✯✯✯✯✯ ",
+      "text1": "Rated [R]  🔞      🙈 🙉 🙊\nThis Site Is Not Suitable For Children, Or The Easily Triggered!\nIf you're looking for an ‘official’ experience, you're in the wrong place.\n(more text to be added later... regarding we aren't online all the time due to having lives. The server rates reflect this so its non-grindy, but dinos are harder to compensate. we will Never wipe, unless essential due to updates/patch issues.)",
+      "imageurl": "https://imgur.com/5x8LTdd"
+    }
+  },
+  "settings": {
+    "tab2": {
+      "layout": 2,
+      "buttontext": "Settings",
+      "title1": "INI settings:",
+      "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"https://raw.githubusercontent.com/Numbat177/WBUI2-ASA/main/default.json\"",
+      "title2": "JSON settings:",
+      "text2": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://imgur.com/If0sRvW\"\n\nFor the rest of the settings, please check the Wiki or the example JSON linked down below.",
+      "imageurl": "https://imgur.com/5x8LTdd"
+    }
+  },
+  "rules": {
+    "tab3": {
+      "layout": 1,
+      "buttontext": "Rules",
+      "title1": "Standard ARK Game Rules",
+      "text1": "Rules text here...",
+      "imageurl": "https://imgur.com/5x8LTdd"
+    }
+  },
+  "mods": {
+    "tab4": {
+      "layout": 4,
+      "buttontext": "Mod Info",
+      "title1": "Resonant's Shop Mod",
+      "title2": "Super Spyglass Plus",
+      "title3": "Thieves Necklace",
+      "title4": "More Rideables",
+      "text1": "Information about Resonant's Shop Mod...",
+      "text2": "Information about Super Spyglass Plus...",
+      "text3": "Information about Thieves Necklace...",
+      "text4": "Information about More Rideables...",
+      "imageurl": "https://imgur.com/5x8LTdd"
     },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "✯✯✯✯✯   Welcome to E.K.O (Early Knock Off) Gaming   ✯✯✯✯✯",
-          "text1": "Rated [R] 🔞\n      🙈 🙉 🙊 \nThis Site Is Not Suitable For Children, Or The Easily Triggered!\nIf you're looking for an ‘official’ experience, you're in the wrong place.\n(more text to be added later... regarding we aren't online all the time due to having lives. The server rates reflect this so its non-grindy, but dinos are harder to compensate. we will Never wipe, unless essential due to updates/patch issues.)",
-          "imageurl": "https://imgur.com/5x8LTdd"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Settings",
-          "title1": "INI settings:",
-          "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"https://raw.githubusercontent.com/Numbat177/WBUI2-ASA/main/default.json\"",
-          "title2": "JSON settings:",
-          "text2": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://imgur.com/If0sRvW\"\n\nFor the rest of the settings, please check the Wiki or the example JSON linked down below.",
-          "imageurl": "https://imgur.com/5x8LTdd"
-        }
-      },
-      {
-        "tab3": {
-          "layout": 1,
-          "buttontext": "Rules",
-          "title1": "Standard ARK Game Rules",
-          "text1": "Rules text here...",
-          "imageurl": "https://imgur.com/5x8LTdd"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "Mod Info",
-          "title1": "Resonant's Shop Mod",
-          "title2": "Super Spyglass Plus",
-          "title3": "Thieves Necklace",
-          "title4": "More Rideables",
-          "text1": "Information about Resonant's Shop Mod...",
-          "text2": "Information about Super Spyglass Plus...",
-          "text3": "Information about Thieves Necklace...",
-          "text4": "Information about More Rideables...",
-          "imageurl": "https://imgur.com/5x8LTdd"
-        }
-      },
-      {
-        "tab5": {
-          "layout": 4,
-          "buttontext": "Mod Info",
-          "title1": "Dino Pick-Up",
-          "title2": "Simple Creature Finder",
-          "title3": "Apocalypse ModPack",
-          "title4": "Asharavel Bestiary [Fantasy Creatures]",
-          "text1": "Information about Dino Pick-Up...",
-          "text2": "Information about Simple Creature Finder...",
-          "text3": "Information about Apocalypse ModPack...",
-          "text4": "Information about Asharavel Bestiary [Fantasy Creatures]...",
-          "imageurl": "https://imgur.com/5x8LTdd"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Discord",
-          "url": "https://discord.gg/8GcqahMGnv"
-        }
-      }
-    ]
-  }
+    "tab5": {
+      "layout": 4,
+      "buttontext": "Mod Info",
+      "title1": "Dino Pick-Up",
+      "title2": "Simple Creature Finder",
+      "title3": "Apocalypse ModPack",
+      "title4": "Asharavel Bestiary [Fantasy Creatures]",
+      "text1": "Information about Dino Pick-Up...",
+      "text2": "Information about Simple Creature Finder...",
+      "text3": "Information about Apocalypse ModPack...",
+      "text4": "Information about Asharavel Bestiary [Fantasy Creatures]...",
+      "imageurl": "https://imgur.com/5x8LTdd"
+    }
+  },
+  "discord": "https://discord.gg/8GcqahMGnv"
 }
