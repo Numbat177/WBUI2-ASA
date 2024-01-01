@@ -1,36 +1,73 @@
 {
   "WBUI2": {
     "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
+      "OpenButton": 0,
+      "HideIcon": false,
+      "HideIconAfter": 60,
+      "IconURL": "https://i.imgur.com/gYJlTvV.png",
+      "DisableIconText": false,
+      "IconPosition": 3,
+      "IconTextColor": 0,
+      "OpenOnStart": false,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
     "tabs": [
       {
         "tab1": {
           "layout": 1,
           "buttontext": "Welcome",
-          "title1": "Thanks for installing WBUI2!",
-          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "title1": "✯✯✯✯✯   Welcome to E.K.O (Early Knock Off) Gaming   ✯✯✯✯✯",
+          "text1": "Rated [R] 🔞   🙈 🙉 🙊\nThis Site Is Not Suitable For Children, Or The Easily Triggered!\n\n\nThis server is crafted for adventurers who understand that life happens. We're not online 24/7 because, just like you, we have lives to live.\n\nOur server rates are designed to provide a non-grindy experience, making it enjoyable for everyone. However, be warned, the wild dinos are a bit feistier to keep things exciting.\n\nWe believe in a fair game, and thus, we will NEVER wipe unless it's absolutely essential due to updates or patch issues. Your progress and creations are safe with us.\n\nExplore, survive, and enjoy your time in our unique gaming world. Embrace the unpredictability and the thrill of the game.\n\n\nSee you in the wild!\n— The E.K.O Gaming Team",
+		  "imageurl": ""
         }
       },
       {
         "tab2": {
-          "layout": 2,
+          "layout": 1,
+          "buttontext": "Rules",
+          "title1": "Server Rules",
+          "text1": "<TextStyle.LightBlue>Respectful Gameplay:</>\nSledging, foul language, and shit-stirs encouraged, all with good humour.\nbut...\nNO nasty harassment, hate speech, or toxic behavior.\n\nNo Foundation Spamming:\nAvoid excessive structures that may obstruct other players' experiences.\n\n<TextStyle.LightBlue>No Griefing:</>\nDo not intentionally ruin other players' enjoyment.\nRespect other tribes' bases and tames.\n\n<TextStyle.LightBlue>One Base Per Tribe:</>\nEach tribe is allowed one main base. Satellite outposts are not permitted. \nDo NOT leave sleeping-bags all over the place, thats what teleporters are for!\n\n<TextStyle.LightBlue>No Building in Rare Resource Areas:</>\nAvoid constructing bases in zones with rare resources to ensure fair access for all players.\n\n<TextStyle.LightBlue>Timers and Claiming:</>\nIt is the responsibility of each player to reset timers on their bases and 'unballed' tames.\nUnclaimed structures and tames may be destroyed/claimed by others once timers expire.\n\n<TextStyle.LightBlue>Safe Spawn Areas:</>\nPlease refrain from building extensive structures on beaches in easy spawn areas\nThis ensures new players can spawn safely.\n\n<TextStyle.LightBlue>Reporting Issues:</>\nReport any rule violations or issues to the admin team via Discord.\n\n\nRemember, these rules are in place to foster a positive and enjoyable environment for all survivors. Violations may result in consequences, including warnings, temporary bans, or permanent bans, depending on the severity and recurrence of the offence.\n\nThank you for being part of our ARK community, and happy surviving!",
+		  "imageurl": ""
+		}
+	  },
+      {
+        "tab3": {
+          "layout": 1,			
           "buttontext": "Settings",
-          "title1": "INI settings:",
-          "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
-          "title2": "JSON settings:",
-          "text2": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "title1": "Server Settings:",		  
+          "text1": "<TextStyle.LightBlue>Taming/Breeding:</>\nBabyMatureSpeedMultiplier=20\nBabyFoodConsumptionSpeedMultiplier=1\nMaxPersonalTamedDinos=400\nTamingSpeedMultiplier=50\n\n\n<TextStyle.LightBlue>Tribe/Base:</>\nMaxPlayers=50\nMaxNumberOfPlayersInTribe=8\nMaxAlliancesPerTribe=10\nInvincibleInterval=15\nSupplyCrateLootQualityMultiplier=100\nFishingLootQualityMultiplier=120\nDestroyTamesOverLevelClamp=5550\nLimitTurretsNum=50\nTheMaxStructuresInRange=10500\n\n<TextStyle.LightBlue>General:</>\nXPMultiplier=100\nHarvestAmountMultiplier=100\nOverrideOfficialDifficulty=2\nDisablePvEGamma=false\nDisableWeatherFog=true\nForceAllowCaveFlyers=false\nDisableDinoDecayPvE=false\nServerHardcore=true\nserverPVE=true\nNightTimeSpeedScale=1\nDayCycleSpeedScale=1\n",
+		  "imageurl": ""
+		}		
+      },
+      {
+        "tab4": {
+          "layout": 4,
+          "buttontext": "Mod Info-1",
+          "title1": "Resonant's Shop Mod",
+          "title2": "Super Spyglass Plus",
+          "title3": "Thieves Necklace",
+          "title4": "More Rideables",
+          "text1": "Points every 5min\nPoints Awarded 50\nOpen Shop = F2",
+          "text2": "<TextStyle.LightBlue>Keybinds:</>\n-Melee - Toggle Target Lock (The Version were you hold the spyglass Toggles with primary fire button)\n-Alt+MWheel Toggle Scan\n-Alt+MWheel Zoom\n-Alt+Right Mouse Reset Zoom\n-Alt+Num- Toggle Structure Info\n-Alt+Num* Toggle Dino Owner Info\n-Alt+Num/ Toggle UI Anims On/Off\n-Shift+F3 Predator Vision\n-Shift+F4 Night Vision\n-Shift+F5 Outline Mode\n-Alt+Home Opens the User Settings Menu",
+          "text3": "Drop Chance = 50%",
+          "text4": "<TextStyle.LightBlue>Rideable Tames:</>\nDodo, Dilophosaur, Troodon, Lystrosaurus, Oviraptor, Titanoboa, Hyaenodon, Kentrosaurus, Trilobite, Piranha, Electrophorus, and Dung Beetle.\nAll dinos will gain a saddle slot in their inventory, and Rideable's Armor can be crafted in the player's inventory to give 25 armor to them.\nPairs well with my 'Imbue And Upgrade Station' mod!",
+		  "imageurl": ""
+        }
+      },
+      {
+        "tab5": {
+          "layout": 4,
+          "buttontext": "Mod Info-2",
+          "title1": "Dino Pick-Up",
+          "title2": "Simple Creature Finder",
+          "title3": "Apocalypse ModPack",
+          "title4": "Asharavel Bestiary [Fantasy Creatures]",
+          "text1": "After utilizing the 'Dino Pick Up' item in tames inventory, players can now effortlessly lift their dinos.\nSimply hold 'E' and choose 'Pick Up'.\nTo release a dino, simply double tap 'F'.",
+          "text2": "To use the Finder interface, open your inventory and navigate to the new Finder tab (should be the last tab).\nThe refresh button has a 3-second cooldown to prevent spam clicking.\nThe Dinoclass button has a  1 minute cooldown.",
+          "text3": "Adds Fire, Lightning, Poison, Ice and Tek Wyverns, Rock Drake, Phoenix, Shadowmane and Astrocetus.\n\n<TextStyle.LightBlue>Added Resources:</> Wyvern Milk, Nameless Venom, RockDrake Saddle/Tek Saddle.\n\n<TextStyle.LightBlue>Crafting Table:</> Improved Longneck + Improved Ammo, ChainSaw and ArrowNet (Net Projectile).\n\n<TextStyle.LightBlue>Taming:</> Wyverns/Magmasaur/Shadowmane are tamed by Knockout\n\n<TextStyle.LightBlue>Items required for taming are obtained from Dead Bodies:</>\nFire Wyvern = Fire Claw\nLightning Wyvern = Lightning Claw\nPosition Wyvern = Position Claw\nIce Wyvern = Ice Crystal\nTek Wyvern = Element Piece\nMagmasaur = Ambergris\nShadowmane = ShadowSteak",
+          "text4": "Encounter formidable orcs,  mischievous goblins, towering trolls, the enigmatic werewolves, and an array of other fantastical beings",
+		  "imageurl": ""
         }
       }
     ],
@@ -38,43 +75,7 @@
       {
         "link1": {
           "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
-        }
-      },
-      {
-        "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
-        "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-        }
-      },
-      {
-        "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
-        }
-      },
-      {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
-        }
-      },
-      {
-        "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
-      },
-      {
-        "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+          "url": "https://discord.gg/8GcqahMGnv"
         }
       }
     ]
