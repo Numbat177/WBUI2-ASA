@@ -19,7 +19,7 @@
           "buttontext": "Welcome",
           "title1": "✯✯✯✯✯   Welcome to E.K.O (Early Knock Off) Gaming   ✯✯✯✯✯",
           "text1": "Rated [R] 🔞   🙈 🙉 🙊\nThis Site Is Not Suitable For Children, Or The Easily Triggered!\n\n\nThis server is crafted for adventurers who understand that life happens. We're not online 24/7 because, just like you, we have lives to live.\n\nOur server rates are designed to provide a non-grindy experience, making it enjoyable for everyone. However, be warned, the wild dinos are a bit feistier to keep things exciting.\n\nWe believe in a fair game, and thus, we will NEVER wipe unless it's absolutely essential due to updates or patch issues. Your progress and creations are safe with us.\n\nExplore, survive, and enjoy your time in our unique gaming world. Embrace the unpredictability and the thrill of the game.\n\n\nSee you in the wild!\n— The E.K.O Gaming Team",
-		  "imageurl": "https://i.imgur.com/5x8LTdd.jpg"
+		  "imageurl": ""
         }
       },
       {
@@ -27,15 +27,17 @@
           "layout": 1,
           "buttontext": "Rules",
           "title1": "Server Rules",
-          "text1": "<TextStyle.LightBlue>Respectful Gameplay:</>\nSledging, foul language, and shit-stirs encouraged, all with good humour.\nbut...\nNO nasty harassment, hate speech, or toxic behavior.\n\nNo Foundation Spamming:\nAvoid excessive structures that may obstruct other players' experiences.\n\n<TextStyle.LightBlue>No Griefing:</>\nDo not intentionally ruin other players' enjoyment.\nRespect other tribes' bases and tames.\n\n<TextStyle.LightBlue>One Base Per Tribe:</>\nEach tribe is allowed one main base. Satellite outposts are not permitted. \nDo NOT leave sleeping bags all over the place, that's what teleporters are for!\n\n<TextStyle.LightBlue>No Building in Rare Resource Areas:</>\nAvoid constructing bases in zones with rare resources to ensure fair access for all players.\n\n<TextStyle.LightBlue>Timers and Claiming:</>\nIt is the responsibility of each player to reset timers on their bases and 'unballed' tames.\nUnclaimed structures and tames may be destroyed/claimed by others once timers expire.\n\n<TextStyle.LightBlue>Safe Spawn Areas:</>\nPlease refrain from building extensive structures on beaches in easy spawn areas\nThis ensures new players can spawn safely.\n\n<TextStyle.LightBlue>Reporting Issues:</>\nReport any rule violations or issues to the admin team via Discord.\n\n\nRemember, these rules are in place to foster a positive and enjoyable environment for all survivors. Violations may result in consequences, including warnings, temporary bans, or permanent bans, depending on the severity and recurrence of the offence.\n\nThank you for being part of our ARK community, and happy surviving!"
+          "text1": "<TextStyle.LightBlue>Respectful Gameplay:</>\nSledging, foul language, and shit-stirs encouraged, all with good humour.\nbut...\nNO nasty harassment, hate speech, or toxic behavior.\n\nNo Foundation Spamming:\nAvoid excessive structures that may obstruct other players' experiences.\n\n<TextStyle.LightBlue>No Griefing:</>\nDo not intentionally ruin other players' enjoyment.\nRespect other tribes' bases and tames.\n\n<TextStyle.LightBlue>One Base Per Tribe:</>\nEach tribe is allowed one main base. Satellite outposts are not permitted. \nDo NOT leave sleeping-bags all over the place, thats what teleporters are for!\n\n<TextStyle.LightBlue>No Building in Rare Resource Areas:</>\nAvoid constructing bases in zones with rare resources to ensure fair access for all players.\n\n<TextStyle.LightBlue>Timers and Claiming:</>\nIt is the responsibility of each player to reset timers on their bases and 'unballed' tames.\nUnclaimed structures and tames may be destroyed/claimed by others once timers expire.\n\n<TextStyle.LightBlue>Safe Spawn Areas:</>\nPlease refrain from building extensive structures on beaches in easy spawn areas\nThis ensures new players can spawn safely.\n\n<TextStyle.LightBlue>Reporting Issues:</>\nReport any rule violations or issues to the admin team via Discord.\n\n\nRemember, these rules are in place to foster a positive and enjoyable environment for all survivors. Violations may result in consequences, including warnings, temporary bans, or permanent bans, depending on the severity and recurrence of the offence.\n\nThank you for being part of our ARK community, and happy surviving!",
+		  "imageurl": ""
 		}
-	  },
+      },
       {
         "tab3": {
           "layout": 1,			
           "buttontext": "Settings",
           "title1": "Server Settings:",		  
-          "text1": "<TextStyle.LightBlue>Taming/Breeding:</>\nBabyMatureSpeedMultiplier=20\nBabyFoodConsumptionSpeedMultiplier=1\nMaxPersonalTamedDinos=400\nTamingSpeedMultiplier=50\n\n\n<TextStyle.LightBlue>Tribe/Base:</>\nMaxPlayers=50\nMaxNumberOfPlayersInTribe=8\nMaxAlliancesPerTribe=10\nInvincibleInterval=15\nSupplyCrateLootQualityMultiplier=100\nFishingLootQualityMultiplier=120\nDestroyTamesOverLevelClamp=5550\nLimitTurretsNum=50\nTheMaxStructuresInRange=10500\n\n<TextStyle.LightBlue>General:</>\nXPMultiplier=100\nHarvestAmountMultiplier=100\nOverrideOfficialDifficulty=2\nDisablePvEGamma=false\nDisableWeatherFog=true\nForceAllowCaveFlyers=false\nDisableDinoDecayPvE=false\nServerHardcore=true\nserverPVE=true\nNightTimeSpeedScale=1\nDayCycleSpeedScale=1\n"
+          "text1": "<TextStyle.LightBlue>Taming/Breeding:</>\nBabyMatureSpeedMultiplier=20\nBabyFoodConsumptionSpeedMultiplier=1\nMaxPersonalTamedDinos=400\nTamingSpeedMultiplier=50\n\n\n<TextStyle.LightBlue>Tribe/Base:</>\nMaxPlayers=50\nMaxNumberOfPlayersInTribe=8\nMaxAlliancesPerTribe=10\nInvincibleInterval=15\nSupplyCrateLootQualityMultiplier=100\nFishingLootQualityMultiplier=120\nDestroyTamesOverLevelClamp=5550\nLimitTurretsNum=50\nTheMaxStructuresInRange=10500\n\n<TextStyle.LightBlue>General:</>\nXPMultiplier=100\nHarvestAmountMultiplier=100\nOverrideOfficialDifficulty=2\nDisablePvEGamma=false\nDisableWeatherFog=true\nForceAllowCaveFlyers=false\nDisableDinoDecayPvE=false\nServerHardcore=true\nserverPVE=true\nNightTimeSpeedScale=1\nDayCycleSpeedScale=1\n",
+		  "imageurl": ""
 		}		
       },
       {
@@ -49,7 +51,8 @@
           "text1": "Points every 5min\nPoints Awarded 50\nOpen Shop = F2",
           "text2": "<TextStyle.LightBlue>Keybinds:</>\n-Melee - Toggle Target Lock (The Version were you hold the spyglass Toggles with primary fire button)\n-Alt+MWheel Toggle Scan\n-Alt+MWheel Zoom\n-Alt+Right Mouse Reset Zoom\n-Alt+Num- Toggle Structure Info\n-Alt+Num* Toggle Dino Owner Info\n-Alt+Num/ Toggle UI Anims On/Off\n-Shift+F3 Predator Vision\n-Shift+F4 Night Vision\n-Shift+F5 Outline Mode\n-Alt+Home Opens the User Settings Menu",
           "text3": "Drop Chance = 50%",
-          "text4": "<TextStyle.LightBlue>Rideable Tames:</>\nDodo, Dilophosaur, Troodon, Lystrosaurus, Oviraptor, Titanoboa, Hyaenodon, Kentrosaurus, Trilobite, Piranha, Electrophorus, and Dung Beetle.\nAll dinos will gain a saddle slot in their inventory, and Rideable's Armor can be crafted in the player's inventory to give 25 armor to them.\nPairs well with my 'Imbue And Upgrade Station' mod!"
+          "text4": "<TextStyle.LightBlue>Rideable Tames:</>\nDodo, Dilophosaur, Troodon, Lystrosaurus, Oviraptor, Titanoboa, Hyaenodon, Kentrosaurus, Trilobite, Piranha, Electrophorus, and Dung Beetle.\nAll dinos will gain a saddle slot in their inventory, and Rideable's Armor can be crafted in the player's inventory to give 25 armor to them.\nPairs well with my 'Imbue And Upgrade Station' mod!",
+		  "imageurl": ""
         }
       },
       {
@@ -60,14 +63,11 @@
           "title2": "Simple Creature Finder",
           "title3": "Apocalypse ModPack",
           "title4": "Asharavel Bestiary [Fantasy Creatures]",
-		  
           "text1": "After utilizing the 'Dino Pick Up' item in tames inventory, players can now effortlessly lift their dinos.\nSimply hold 'E' and choose 'Pick Up'.\nTo release a dino, simply double tap 'F'.",
-		  
-          "text2": "To use the Finder interface, open your inventory and navigate to the new Finder tab (should be the last tab).\nThe refresh button has a 3-second cooldown to prevent spam clicking.\nThe Dinoclass button has a  1-minute cooldown.",
-		  
+          "text2": "To use the Finder interface, open your inventory and navigate to the new Finder tab (should be the last tab).\nThe refresh button has a 3-second cooldown to prevent spam clicking.\nThe Dinoclass button has a  1 minute cooldown.",
           "text3": "Adds Fire, Lightning, Poison, Ice and Tek Wyverns, Rock Drake, Phoenix, Shadowmane and Astrocetus.\n\n<TextStyle.LightBlue>Added Resources:</> Wyvern Milk, Nameless Venom, RockDrake Saddle/Tek Saddle.\n\n<TextStyle.LightBlue>Crafting Table:</> Improved Longneck + Improved Ammo, ChainSaw and ArrowNet (Net Projectile).\n\n<TextStyle.LightBlue>Taming:</> Wyverns/Magmasaur/Shadowmane are tamed by Knockout\n\n<TextStyle.LightBlue>Items required for taming are obtained from Dead Bodies:</>\nFire Wyvern = Fire Claw\nLightning Wyvern = Lightning Claw\nPosition Wyvern = Position Claw\nIce Wyvern = Ice Crystal\nTek Wyvern = Element Piece\nMagmasaur = Ambergris\nShadowmane = ShadowSteak",
-		  
-          "text4": "Encounter formidable orcs,  mischievous goblins, towering trolls, the enigmatic werewolves, and an array of other fantastical beings"
+          "text4": "Encounter formidable orcs,  mischievous goblins, towering trolls, the enigmatic werewolves, and an array of other fantastical beings",
+		  "imageurl": ""
         }
       }
     ],
