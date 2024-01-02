@@ -36,7 +36,7 @@
           "layout": 1,			
           "buttontext": "<RichColor Color=\"0.6,0.55,0.18,1\">Settings</>",
           "title1": "<RichColor Color=\"0.6,0.55,0.18,1\">Server Settings:</>",		  
-          "text1": "<TextStyle.LightBlue>Taming/Breeding:</>\nBabyMatureSpeedMultiplier=20\nBabyFoodConsumptionSpeedMultiplier=1\nMaxPersonalTamedDinos=400\nTamingSpeedMultiplier=50\n\n\n<TextStyle.LightBlue>Tribe/Base:</>\nMaxPlayerLevel=300</>\nMaxPlayers=50\nMaxNumberOfPlayersInTribe=8\nMaxAlliancesPerTribe=10\nInvincibleInterval=15\nDestroyTamesOverLevelClamp=5550\nLimitTurretsNum=50\nTheMaxStructuresInRange=10500\n\n<TextStyle.LightBlue>General:</>\nXPMultiplier=20\nHarvestAmountMultiplier=100\nMaxWildDinoLevel=510</>\nDisablePvEGamma=false\nDisableWeatherFog=true\nForceAllowCaveFlyers=false\nDisableDinoDecayPvE=false\nServerHardcore=true\nserverPVE=true\nNightTimeSpeedScale=1\nDayCycleSpeedScale=1\n",
+          "text1": "<TextStyle.LightBlue>Taming/Breeding:</>\nBabyMatureSpeedMultiplier=20\nBabyFoodConsumptionSpeedMultiplier=1\nMaxPersonalTamedDinos=400\nTamingSpeedMultiplier=50\n\n\n<TextStyle.LightBlue>Tribe/Base:</>\nMaxPlayerLevel=300</>\nMaxPlayers=50\nMaxNumberOfPlayersInTribe=8\nMaxAlliancesPerTribe=10\nInvincibleInterval=15\nDestroyTamesOverLevelClamp=5550\nLimitTurretsNum=50\nTheMaxStructuresInRange=10500\n\n<TextStyle.LightBlue>General:</>\nXPMultiplier=10\nHarvestAmountMultiplier=100\nMaxWildDinoLevel=510</>\nDisablePvEGamma=false\nDisableWeatherFog=true\nForceAllowCaveFlyers=false\nDisableDinoDecayPvE=false\nServerHardcore=true\nserverPVE=true\nNightTimeSpeedScale=1\nDayCycleSpeedScale=1\n",
 		   "imageurl": "https://i.imgur.com/TuY6X8m.png"
 		}		
       },
