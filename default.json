@@ -10,7 +10,7 @@
       "IconTextColor": 2,
       "OpenOnStart": false,
       "OpenOnStartOnlyNewPlayers": true,
-      "UpdateInterval": 12
+      "UpdateInterval": 10
     },
     "tabs": [
       {
